@@ -1,0 +1,6 @@
+include: package:lints/recommended.yaml
+
+linter:
+  rules:
+    file_names: false
+    dangling_library_doc_comments: false

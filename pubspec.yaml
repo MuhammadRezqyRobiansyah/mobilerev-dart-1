@@ -1,0 +1,11 @@
+name: tugas1_dart
+description: Tugas 1 Praktikum Pemrograman Mobile - Modul 1 Bahasa Pemrograman Dart oleh Muhammad Rezqy Robiansyah (H1D024129).
+version: 1.0.0
+
+environment:
+  sdk: ^3.13.5
+
+dependencies:
+
+dev_dependencies:
+  lints: ^6.0.0
