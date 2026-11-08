@@ -219,3 +219,8 @@ dart run bin/09_async_await.dart
   Data diproses.
   Pemrosesan selesai.
   ```
+
+
+
+
+<img width="1143" height="1023" alt="image" src="https://github.com/user-attachments/assets/24329d27-8246-48f2-abfe-d29ff656aac6" />
